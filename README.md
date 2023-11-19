@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+I'm Luxuajs, a computer science student at Carabobo University.
 
-<!--
-**luxuajs/luxuajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, I'll be sharing programs written in various languages such as C, C++, Python and others.
 
-Here are some ideas to get you started:
+Currently, I'm exploring different topics including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*- Data Structures*
+
+*- Algorithms*
+
+*- Web Development*
+
+I'll be creating programs ranging from simple to complex, along with projects. Each program will come with detailed explanations and comments to enhance understanding.
+
+If you'd like to get in touch, you can visit me on Instagram:
+- Personal IG: [@jalejandro_8](https://www.instagram.com/jalejandro_8/)
+- Creator IG: [@luxua.js](https://www.instagram.com/luxua.js/)
